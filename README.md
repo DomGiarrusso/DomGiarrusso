@@ -10,5 +10,5 @@ You can find below more of my projects, check them out!
 
 ### Check out my
 
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%84_Portfolio-red?link=https%3A%2F%2Fwww.dominicgiarrusso.com%2F)
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdomgiarrusso%2F)
+-   📄 [**Portfolio**](https://www.dominicgiarrusso.com/)
+-   🔗 [**LinkedIn**](https://www.linkedin.com/in/domgiarrusso/)
