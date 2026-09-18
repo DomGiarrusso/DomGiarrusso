@@ -2,9 +2,10 @@
 
 # Hey! I'm Dominic Giarrusso
 
-I developed a passion for programming while in college studying game development, with my programming foundations rooted in C/C++ and C#. This all came together in my capstone project, [**_Awakened_**](https://domgiarrusso.itch.io/awakened), built with Unreal Engine 5. Since graduating, I've broadened my horizons to software and web development, having learned Python, JavaScript, and more. I also don't see myself stopping anytime soon either. My journey is far from over, and I'm excited to showcase my skills and start my full-time career.
+I'm a full-stack developer based in Northern Virginia, working mainly with C#/.NET, JavaScript/TypeScript, and SQL. I studied computer game design at George Mason University before moving into web development, and I still bring that mix of technical problem-solving and creative thinking to my work. Outside of software, I'm into photography, video, typography, and tinkering with whatever catches my interest.
 
-I will say the barrier to entry for a web project compared to a game project is so much lower and much more enjoyable to get something out there quickly that people can use.
+> [!CAUTION] HOT TAKE
+> C# is a better language to learn programming first than Python.
 
 You can find below more of my projects, check them out!
 
